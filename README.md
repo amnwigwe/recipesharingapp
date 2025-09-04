@@ -4,7 +4,6 @@ A full-stack recipe management application with **user authentication**, **CRUD 
 
 ## 🖥 Features
 
-- User authentication with **JWT**  
 - Create, read, update, delete **recipes**  
 - **Favorites**: save your favorite recipes  
 - **Search and filter** recipes by keyword or tags  
