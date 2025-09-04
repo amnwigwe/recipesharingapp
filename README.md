@@ -40,7 +40,7 @@ docker compose up --build
 ```
 
 - Backend API: `http://localhost:8000`  
-- PostgreSQL database exposed on port `5432`  
+- Database (MySQL) exposed on port exposed on port `3306`  
 
 ### Run Frontend
 
