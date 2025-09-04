@@ -9,7 +9,7 @@ A full-stack recipe management application with **user authentication**, **CRUD 
 - **Favorites**: save your favorite recipes  
 - **Search and filter** recipes by keyword or tags  
 - Responsive **React frontend** with Vite  
-- **PostgreSQL** database  
+- **MySQL database** (can connect via MySQL Workbench)  
 - Fully containerized with **Docker + Docker Compose**  
 - Ready for deployment with **CI/CD**  
 
