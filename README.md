@@ -19,7 +19,7 @@ A full-stack recipe management application with **user authentication**, **CRUD 
 |-------------|-----------------|
 | Frontend     | React + Vite      |
 | Backend      | Flask + JWT       |
-| Database     | PostgreSQL        |
+| Database     | MySQL             |
 | Auth         | JSON Web Tokens   |
 | Deployment   | Docker + Docker Compose |
 | API Requests | Axios             |
@@ -107,8 +107,8 @@ recipe-app-full/
   - **Users**: `id`, `username`, `email`, `password_hash`  
   - **Recipes**: `id`, `title`, `ingredients`, `instructions`, `tags`, `created_by`  
   - **Favorites**: `user_id`, `recipe_id`  
-- JWT used for auth  
-- Axios handles frontend API requests  
+- **Uses MySQL**  
+- Axios handles frontend API requests
 
 ## 🚀 Next Steps
 
