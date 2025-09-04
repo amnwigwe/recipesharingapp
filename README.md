@@ -40,7 +40,16 @@ docker compose up --build
 ```
 
 - Backend API: `http://localhost:8000`  
-- Database (MySQL) exposed on port exposed on port `3306`  
+- Database (MySQL) exposed on port exposed on port `3306`
+- Connect via MySQL Workbench using:
+
+Host: localhost
+
+User: appuser
+
+Password: apppassword
+
+Database: appdb
 
 ### Run Frontend
 
